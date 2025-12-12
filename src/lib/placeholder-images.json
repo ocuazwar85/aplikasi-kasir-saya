@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "product-1",
+      "description": "A delicious-looking pastry",
+      "imageUrl": "https://images.unsplash.com/photo-1682263167429-0dbcf2c1e127?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwYXN0cnklMjBmb29kfGVufDB8fHx8MTc2NTI2MzY2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pastry food"
+    },
+    {
+      "id": "product-2",
+      "description": "A refreshing iced coffee",
+      "imageUrl": "https://images.unsplash.com/photo-1533007716222-4b465613a984?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxpY2VkJTIwY29mZmVlfGVufDB8fHx8MTc2NTIxNjYwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "iced coffee"
+    },
+    {
+      "id": "product-3",
+      "description": "A slice of cake",
+      "imageUrl": "https://images.unsplash.com/photo-1602630209855-dceac223adfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYWtlJTIwc2xpY2V8ZW58MHx8fHwxNzY1MTk4MDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cake slice"
+    },
+    {
+      "id": "product-4",
+      "description": "A warm croissant",
+      "imageUrl": "https://images.unsplash.com/photo-1690003920357-e665cc56df3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjcm9pc3NhbnQlMjBiYWtlcnl8ZW58MHx8fHwxNzY1MjE2NjA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "croissant bakery"
+    },
+    {
+      "id": "product-5",
+      "description": "A healthy smoothie bowl",
+      "imageUrl": "https://images.unsplash.com/photo-1610450624105-58a2f25f7911?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzbW9vdGhpZSUyMGJvd2x8ZW58MHx8fHwxNzY1MjA0NTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smoothie bowl"
+    },
+    {
+      "id": "topping-1",
+      "description": "Chocolate sprinkles",
+      "imageUrl": "https://images.unsplash.com/photo-1572269579647-d941424e3b82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaG9jb2xhdGUlMjBzcHJpbmtsZXN8ZW58MHx8fHwxNzY1MjYzNjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate sprinkles"
+    },
+    {
+      "id": "topping-2",
+      "description": "Caramel sauce",
+      "imageUrl": "https://images.unsplash.com/photo-1469532804526-98aa275b657c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2FyYW1lbCUyMHNhdWNlfGVufDB8fHx8MTc2NTI2MzY2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "caramel sauce"
+    },
+    {
+      "id": "topping-3",
+      "description": "Whipped cream",
+      "imageUrl": "https://images.unsplash.com/photo-1581524813206-e72bb3dd5178?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3aGlwcGVkJTIwY3JlYW18ZW58MHx8fHwxNzY1MjYzNjYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "whipped cream"
+    },
+    {
+      "id": "store-logo",
+      "description": "Store logo placeholder",
+      "imageUrl": "https://images.unsplash.com/photo-1763988451321-e472507994f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzaG9wJTIwbG9nb3xlbnwwfHx8fDE3NjUyNTIyODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shop logo"
+    }
+  ]
+}
